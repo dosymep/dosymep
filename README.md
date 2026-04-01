@@ -1,7 +1,11 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dosymep)
+<h2>Hi there 👋 I'm dosymep</h2>
 
-### Hi there 👋 with love dosymep!
+Team Lead | C# | .NET | Python<br>
+Core Contributor to <b>pyRevit</b>.<br>
+Developed the <b>Bim4Everyone</b> platform.
 
-I create libraries and tools to assist with working with Autodesk Revit.
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosymep&show_icons=true&theme=onedark)
+<a href="https://dosymep.net">🌐 Website</a> / 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dosymep" alt="Profile views" /><br/><br/>
+<img src="./profile/stats.svg" alt="GitHub stats" />
